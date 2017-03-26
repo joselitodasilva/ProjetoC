@@ -1,0 +1,22 @@
+{
+  "name": "projectc",
+  "version": "1.0.0",
+  "description": "Projeto C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joselitodasilva/ProjetoC.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/joselitodasilva/ProjetoC/issues"
+  },
+  "homepage": "https://github.com/joselitodasilva/ProjetoC#readme",
+  "devDependencies": {
+    "bower": "^1.8.0"
+  }
+}
